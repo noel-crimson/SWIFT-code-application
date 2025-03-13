@@ -10,7 +10,7 @@ Before running this application, make sure you have:
 ## How to use
 In order to run the application, first clone the repository and move to its directory:
 ```sh
-git clone <repo_url>
+git clone https://github.com/noel-crimson/SWIFT-code-application.git
 cd swiftparser
 ```
 Then, start the Docker container with the command:
