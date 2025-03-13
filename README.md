@@ -8,12 +8,11 @@ Before running this application, make sure you have:
 - [Postman](https://www.postman.com/) (optional, for testing endpoints)
 
 ## How to use
-In order to run the application, first clone the repository and move to its directory:
+In order to run the application, first clone the repository:
 ```sh
 git clone https://github.com/noel-crimson/SWIFT-code-application.git
-cd swiftparser
 ```
-Then, start the Docker container with the command:
+Then, start the Docker containers within the repo directory:
 ```sh
 docker-compose up --build
 ```
